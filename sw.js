@@ -1,7 +1,8 @@
 var serviceWorkerOption = {
   "assets": [
-    "/5d982326781d6f8ea98b7c2d8f958fc5.jpg",
-    "/main.bundle.js",
+    "/defaultVendors~main~678f84af.bundle.js",
+    "/defaultVendors~main~d939e436.bundle.js",
+    "/main~29d6ecf2.bundle.js",
     "/favicon.png",
     "/manifest.json",
     "/icons/apple-touch-icon.png",
@@ -10,9 +11,7 @@ var serviceWorkerOption = {
     "/icons/favicon-32x32.png",
     "/icons/favicon-512x512.png",
     "/icons/favicon.ico",
-    "/images/grey_blank.png",
-    "/images/white_blank.png",
-    "/images/heros/heroimage.jpg",
+    "/others/white_blank.png",
     "/index.html"
   ]
 };
